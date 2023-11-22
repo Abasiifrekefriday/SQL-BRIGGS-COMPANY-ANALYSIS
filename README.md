@@ -1,2 +1,2 @@
 # SQL-PROJECT BRIGGS COMPANY MARKET ANALYSIS
-Briggs company requests solved using structured query language in a more simpler way. 
+Market analysis done from employee,sales, movies and other data generated from Briggs company. 
